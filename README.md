@@ -1,4 +1,4 @@
 # Powershell commands & functions
 
-1. [Commands](powershell-commands.html)
-2. [Functions](powershell-functions.html)
+1. [Commands](ps-commands.html)
+2. [Functions](ps-functions.html)
