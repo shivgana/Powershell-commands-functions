@@ -1,7 +1,7 @@
 # Powershell Functions
 
 Name|Source
-----|------
+----|---|
 Get-AppBackgroundTask|AppBackgroundTask
 Start-AppBackgroundTask|AppBackgroundTask
 Unregister-AppBackgroundTask|AppBackgroundTask
